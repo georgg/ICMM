@@ -1,0 +1,42 @@
+10
+
+dir
+0
+https://icmm.svn.sourceforge.net/svnroot/icmm/ICMM/.settings
+https://icmm.svn.sourceforge.net/svnroot/icmm
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+1fee0db3-34a5-40e7-854f-0f3b6fbbf95f
+
+org.eclipse.jdt.core.prefs
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+

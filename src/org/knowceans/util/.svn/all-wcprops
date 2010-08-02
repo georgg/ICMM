@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/icmm/!svn/ver/2/ICMM/src/org/knowceans/util
+END
+CokusRandom.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/icmm/!svn/ver/2/ICMM/src/org/knowceans/util/CokusRandom.java
+END
+DataThreadPool.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/icmm/!svn/ver/2/ICMM/src/org/knowceans/util/DataThreadPool.java
+END
+ArrayIo.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/icmm/!svn/ver/2/ICMM/src/org/knowceans/util/ArrayIo.java
+END
+Binomial.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/icmm/!svn/ver/2/ICMM/src/org/knowceans/util/Binomial.java
+END
+DataTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/icmm/!svn/ver/2/ICMM/src/org/knowceans/util/DataTask.java
+END
+Crypt.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/icmm/!svn/ver/2/ICMM/src/org/knowceans/util/Crypt.java
+END
+Cokus.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/icmm/!svn/ver/2/ICMM/src/org/knowceans/util/Cokus.java
+END
+ArmSampler.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/icmm/!svn/ver/2/ICMM/src/org/knowceans/util/ArmSampler.java
+END
+CokusSampler.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/icmm/!svn/ver/2/ICMM/src/org/knowceans/util/CokusSampler.java
+END
+ArrayUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/icmm/!svn/ver/2/ICMM/src/org/knowceans/util/ArrayUtils.java
+END
+CokusDistributionSampler.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/icmm/!svn/ver/2/ICMM/src/org/knowceans/util/CokusDistributionSampler.java
+END
+Arguments.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/icmm/!svn/ver/2/ICMM/src/org/knowceans/util/Arguments.java
+END
+AccentRemover.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/icmm/!svn/ver/2/ICMM/src/org/knowceans/util/AccentRemover.java
+END
+Conf.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/icmm/!svn/ver/2/ICMM/src/org/knowceans/util/Conf.java
+END
